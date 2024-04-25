@@ -1,0 +1,1 @@
+# Acer_Aspire_3_A-315-23-R54Z-ryzen3500u-hackintosh
