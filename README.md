@@ -6,7 +6,7 @@ An OpenCore config for Acer-Aspire A315-23-R54Z 2023 (Ryzen Edition)
 
 OpenCore version: 0.9.9
 
-macOS: 11.6
+macOS: 11.6.6
 
 ## SPECS:
 - LAPTOP: Acer-Aspire A315-23-R54Z
