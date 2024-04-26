@@ -37,6 +37,7 @@ Please change MLB/ROM/Serial Number/UUID.
 
 * Hibernation
 * Front Camera (connected to XHC, which is disabled)
+* USB (still in the works)
 
 ## Installation instructions:
 
